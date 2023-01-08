@@ -11,7 +11,7 @@ To get started with the course, you will need to have Python installed on your c
 Once you have Python and the necessary libraries installed, you can download the Jupyter notebooks for the course and start working through them. The notebooks are organized by topic and contain a mix of explanations, code examples, and exercises to help you practice and reinforce your learning.
 
 ##Resources
-Anaconda Distribution (https://www.anaconda.com/download/) <br>
+<br>Anaconda Distribution (https://www.anaconda.com/download/) <br>
 Jupyter Notebook Documentation (https://jupyter-notebook.readthedocs.io/en/stable/) <br>
 NumPy Documentation (https://numpy.org/doc/) <br>
 Pandas Documentation (https://pandas.pydata.org/pandas-docs/stable/) <br>
